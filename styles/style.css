@@ -1,0 +1,23 @@
+p:hover {
+  color: red;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #CCCCCC;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
